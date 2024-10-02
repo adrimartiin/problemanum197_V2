@@ -1,5 +1,4 @@
-
-   tirar commit mañana 
+    tirar commit mañana 
     X1 a X
         Si existe y si no esta vacío el input del form
         Definir linea como valor recogido del input
@@ -52,6 +51,7 @@
             
 
         //MOSTRAR POR PANTALLA
+        
     
 
         
